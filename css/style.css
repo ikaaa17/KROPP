@@ -1,0 +1,12 @@
+.background-image {
+    background-image: url(../pictures/section.elementor-section\ \(1\).svg);
+    position: relative;
+    background-size: cover;
+}
+
+.background-image1 {
+    position: absolute;
+    top: 25%;
+    right: 45%;
+}
+
